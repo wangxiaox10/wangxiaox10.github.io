@@ -9,3 +9,11 @@
 .nav li {
   display: inline;
 }
+
+a:link {
+   color:inherit;
+}
+
+a:visited{
+  color:inherit;
+}
