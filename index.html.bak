@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Xiao WANG's Homepage</title>
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <div class="nav">
+        <div class="container">
+            <ul class="pull-left">
+                <li><a href="#">Home</a></li>
+                <li><a href="resume.html">Resume</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+            <ul class="pull-right">
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="blog.html">Blog</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="jumbotron">
+        <div class="container">
+            <h1 href="#">open Xiao WANG</h1>
+            <h2>let life = [coding; philosophy; writing; sports; gastronomy]</h2>
+        </div>
+    </div>
+
+    <div class="neighborhood-guides">
+        <div class="container">
+            <h2>A brief review of academic experience</h2>
+            <div>
+                <li>Fours years' studies in Shanghai, China</li>
+                <li>Five years' studies in France</li>
+                <li>Two internships in London</li>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                        <img src="http://preprod-img.planet.fr/files/images/feeditem/1/6/4/485461/1593770-focus.jpg">
+                    </div>
+                    <div class="thumbnail">
+                        <img src="http://perso.telecom-paristech.fr/~drossi/DATA/wordle-2013.png">
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                        <img src="http://qph.is.quoracdn.net/main-qimg-5783522efdc145480e1744c8eafb7eb0?convert_to_webp=true">
+                    </div>
+                    <div class="thumbnail">
+                        <img src="http://i.telegraph.co.uk/multimedia/archive/02376/olympics_2376628b.jpg">
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                        <img src="https://c2.staticflickr.com/6/5141/5615724499_35ec8cf41d_b.jpg">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="learn-more">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h3>Not implemented</h3>
+                    <p>Not implemented</p>
+                    <p><a href="#">Not implemented</a></p>
+                </div>
+                <div class="col-md-4">
+                    <h3>Not implemented</h3>
+                    <p>Not implemented</p>
+                    <p><a href="#">Learn more about Not implemented</a></p>
+                </div>
+                <div class="col-md-4">
+                    <h3>Not implemented</h3>
+                    <p>Not implemented.</p>
+                    <p><a href="#">Learn about Not implemented</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
